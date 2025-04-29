@@ -1,0 +1,35 @@
+Sample 1
+Similarity Score: 0.2568
+Actual Report:
+1. No acute cardiopulmonary findings. No focal consolidation. No visualized pneumothorax. No pleural effusions. Heart size normal. The cardiomediastinal silhouette is unremarkable.
+Predicted Report:
+1. No acute cardiopulmonary findings. No focal consolidation. No visualized pneumothorax. No pleural effusions. Heart size normal. The cardiomediastinal silhouette is unremarkable.
+--------------------------------------------------------------------------------
+Sample 2
+Similarity Score: 0.3051
+Actual Report:
+No acute pulmonary disease. The lungs are clear. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.
+Predicted Report:
+No acute pulmonary disease. The lungs are clear. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.
+--------------------------------------------------------------------------------
+Sample 3
+Similarity Score: 0.2132
+Actual Report:
+Heart size is normal and lungs are clear. Right aortic  with probable aberrant left subclavian artery. This is a normal variant seen in one of 200 patients. No evidence of tuberculosis
+Predicted Report:
+Heart size is normal and lungs are clear. Right aortic  with probable aberrant left subclavian artery. This is a normal variant seen in one of 200 patients. No evidence of tuberculosis
+--------------------------------------------------------------------------------
+Sample 4
+Similarity Score: 0.2439
+Actual Report:
+No acute findings Heart size within normal limits, stable mediastinal and hilar contours. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. No pneumothorax.
+Predicted Report:
+No acute findings Heart size within normal limits, stable mediastinal and hilar contours. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. No pneumothorax.
+--------------------------------------------------------------------------------
+Sample 5
+Similarity Score: 0.2981
+Actual Report:
+No acute cardiopulmonary abnormality. Heart size is normal. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures appear intact.
+Predicted Report:
+No acute cardiopulmonary abnormality. Heart size is normal. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures appear intact.
+--------------------------------------------------------------------------------

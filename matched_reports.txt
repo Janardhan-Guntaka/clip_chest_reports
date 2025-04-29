@@ -1,0 +1,25 @@
+Image: CXR1176_IM-0119-2001.png
+XML File: 1176.xml
+Impression: 1. No acute pulmonary abnormality.
+Findings: The lungs and pleural spaces show no acute abnormality. Heart size and pulmonary vascularity within normal limits. .
+--------------------------------------------------
+Image: CXR1625_IM-0406-1003.png
+XML File: 1625.xml
+Impression: No acute disease.
+Findings: The heart is normal in size. The mediastinum is stable. Atherosclerotic calcifications of the aortic XXXX are present. The lungs are clear.
+--------------------------------------------------
+Image: CXR270_IM-1168-2001.png
+XML File: 270.xml
+Impression: No acute cardiopulmonary findings. .
+Findings: The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.
+--------------------------------------------------
+Image: CXR273_IM-1188-2001.png
+XML File: 273.xml
+Impression: 1. Cardiomegaly 2. Indistinct vascular margination which may be secondary to bronchovascular crowding however differential diagnosis includes mild pulmonary edema, atypical infection, inflammation
+Findings: Heart size mildly to moderately enlarged. Mild right hemidiaphragm elevation with mild bronchovascular crowding, right greater than left, indistinct vascular margination. No definite focal alveolar consolidation, no pleural effusion XXXX demonstrated.
+--------------------------------------------------
+Image: CXR3455_IM-1677-2001.png
+XML File: 3455.xml
+Impression: XXXX pulmonary edema and left basilar atelectasis/airspace disease.
+Findings: Central vascular prominence and diffuse bilateral interstitial and alveolar opacities. Left basilar airspace opacities. No pneumothorax. Heart size XXXX large. XXXX unremarkable. No large pleural effusion.
+--------------------------------------------------
