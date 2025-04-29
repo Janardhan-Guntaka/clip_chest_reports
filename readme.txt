@@ -82,11 +82,11 @@ Trained for 5 epochs, batch size 32
 ✅ Visual clustering with t-SNE
 
 🧠 Authors
-Janardhan Reddy Guntaka – Concept + Data + Report
+Janardhan Reddy Guntaka - Led the data preprocessing pipeline, implemented the CLIP fine-tuning code, and contributed significantly to methodology design and technical writing.
 
-Sohith Sai Malyala – Code + Preprocessing + Visuals
+Sohith Sai Malyala - Focused on dataset curation, baseline (zero-shot) experiments, t-SNE visualization, and results analysis. Contributed to writing and literature review.
 
-Ram Prakash Yallavula – Validation + Final Review + Docs
+Ram Prakash Yallavula - Worked on model evaluation, manual error analysis, feature visualization (t-SNE plots), presentation preparation, and editing the final report.
 
 📜 References
 All academic references are included in the final LaTeX report.
